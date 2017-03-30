@@ -2,11 +2,11 @@ Aplicação simples de login e tela de cadastro de usuário com as tabelas do ba
 
 Tecnologias utilizadas:
 
-JSF PrimeFaces 6.0
-Spring 4.3.7.RELEASE
-Hibernate 4
-JUnit 4
-Maven
-Postgre 9.6
-eclipse Neon.2 Release (4.6.2)
-apache-tomcat-8.5.11
+- JSF PrimeFaces 6.0
+- Spring 4.3.7.RELEASE
+- Hibernate 4
+- JUnit 4
+- Maven
+- Postgre 9.6
+- eclipse Neon.2 Release (4.6.2)
+- apache-tomcat-8.5.11
