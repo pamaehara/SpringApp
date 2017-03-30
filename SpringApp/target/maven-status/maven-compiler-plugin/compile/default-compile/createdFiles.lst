@@ -1,0 +1,6 @@
+com\integration\dao\UsuarioDAOImpl.class
+com\integration\service\UsuarioServiceImpl.class
+com\integration\view\LoginManagedBean.class
+com\integration\dao\UsuarioDAO.class
+com\integration\model\Usuario.class
+com\integration\service\UsuarioService.class
